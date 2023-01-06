@@ -1,4 +1,4 @@
-#A estrutura condicional permite o desvio de fluxo de controle, quando determinadas expressõeslógicas são atendidas
+#A estrutura condicional permite o desvio de fluxo de controle,, quando determinadas expressõeslógicas são atendidas.
 
 MAIOR_IDADE = 18
 IDADE_ESPECIAL = 12

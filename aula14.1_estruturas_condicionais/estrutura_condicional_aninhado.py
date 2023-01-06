@@ -1,3 +1,5 @@
+#exemplo
+
 conta_normal = False
 conta_universitária = False
 
@@ -14,7 +16,7 @@ if conta_normal:
     else:
      print("Não foi possivel realizar o saque, saldo insuficiente!")
 elif conta_universitária:
-    
+
     if saldo >= saque:
      print("Saque realizado com sucesso!")
     else:
