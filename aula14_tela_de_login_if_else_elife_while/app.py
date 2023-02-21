@@ -2,7 +2,7 @@
 #tela login e senha utilizando if else elife while
 
 import PySimpleGUI as sg
-
+#from logout impot janela de logout
 layout = [
     [sg.Text('Usuário')],
     [sg.Input(key = 'usuário')],
@@ -11,7 +11,7 @@ layout = [
     [sg.Button('login')],
     [sg.Text('', key = 'mensagem')],  
 ]
-
+#declar janela
 window = sg.Window('Login', layout=layout)
 
 while True:
@@ -27,7 +27,6 @@ while True:
             window['mensagem'].update('Login realizado com sucesso')
         else: 
              window['mensagem'].update('Senha ou usário incorretos')
-
 
            
            
