@@ -1,4 +1,4 @@
-#criação hands on e aprendizado
+#criação hands on e aprendizado.
 #tela login e senha utilizando if else elife while
 
 import PySimpleGUI as sg
