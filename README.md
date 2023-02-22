@@ -10,5 +10,8 @@
 ##
 - Onde eu encontro os módulos para usar no meu projeto? Alguns módulos já vêm por padrão no Python puro, por exemplo o módulo matemático. Outros, devem ser baixados de um repositório, como é o caso do Django ou Numpy. Hoje, mais de 107 mil projetos estão cadastrados no repositório oficial. Caso você não ache o que procura, há muito incentivo para que você construa um módulo novo e inclua no repositório!
 ##
-- Se você não tem a menor ideia mesmo de que módulo você precisa, dê uma procurada no Google e StackOverflow. De certo alguém já fez algo parecido com o que você precisa!
-	
+​:world_map: 
+### Projetinhos já desenvolvidos
+ - Tela de login e senha
+ - Gerenciador de senhas
+ - API
