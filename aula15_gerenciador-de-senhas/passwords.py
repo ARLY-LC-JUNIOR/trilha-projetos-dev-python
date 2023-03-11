@@ -1,6 +1,6 @@
 #geradro de senhas. As senha de exemplo de conceito e foi 
 #inserida apenas para mostrar o conceito. 
-#Não recomendado para produção, é apenas aprendizado.
+#Não recomendado para produção, é apenas aprendizado..
 
 import sqlite3
 
